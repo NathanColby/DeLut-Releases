@@ -1,3 +1,3 @@
 # DeLut Releases
 
-Public release downloads for DeLut. Source code is maintained privately.
+Public release downloads for DeLUT.
